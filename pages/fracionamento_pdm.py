@@ -329,7 +329,7 @@ layout = html.Div(
                                         "maxWidth": "520px",
                                     },
                                     children=[
-                                        html.H4("Limite de Gasto – itabira por PDM", style={"margin": "0px"}),
+                                        html.H4("Limite de Gasto – Itabira por PDM", style={"margin": "0px"}),
                                         html.Div(
                                             children=[
                                                 html.Span(
